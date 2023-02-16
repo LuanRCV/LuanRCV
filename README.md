@@ -1,6 +1,5 @@
 
 ## Luan Vieira - Software Engineer
-<p>Software developer specializing in secure coding</p>
 
 <div align="center">
   <a href="https://github.com/LuanRCV">
